@@ -7,6 +7,15 @@
 		{
 			"Name": "OctanePlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "MegascansPlugin",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
