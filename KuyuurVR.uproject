@@ -17,5 +17,9 @@
 				"Linux"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"AllDesktop"
 	]
 }
